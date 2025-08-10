@@ -1,0 +1,33 @@
+{
+  "chart": {
+    "title": "Human trafficking victims",
+    "subtitle": "The total number of human trafficking victims officially detected by national authorities.",
+    "note": "Trends should be interpreted with caution as data only includes detected victims, whose number also depends on legislative criteria and law enforcement practices.",
+    "citation": "UN Office on Drugs and Crime",
+    "originalChartUrl": "https://ourworldindata.org/grapher/human-trafficking-victims?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United States"
+    ]
+  },
+  "columns": {
+    "16.2.2 - Detected victims of human trafficking, by age and sex (number) - VC_HTF_DETV - under 18 years old - Female": {
+      "titleShort": "16.2.2 - Detected victims of human trafficking, by age and sex (number) - VC_HTF_DETV - under 18 years old - Female",
+      "titleLong": "16.2.2 - Detected victims of human trafficking, by age and sex (number) - VC_HTF_DETV - under 18 years old - Female",
+      "descriptionShort": "Detected victims of human trafficking, by age and sex (number)",
+      "descriptionKey": [],
+      "shortUnit": "",
+      "unit": "number",
+      "timespan": "2007-2022",
+      "type": "Integer",
+      "owidVariableId": 993843,
+      "shortName": "_16_2_2__vc_htf_detv__under_18_years_old__female",
+      "lastUpdated": "2024-08-27",
+      "nextUpdate": "2026-08-27",
+      "citationShort": "UN Office on Drugs and Crime – processed by Our World in Data",
+      "citationLong": "UN Office on Drugs and Crime – processed by Our World in Data. “16.2.2 - Detected victims of human trafficking, by age and sex (number) - VC_HTF_DETV - under 18 years old - Female” [dataset]. UN Office on Drugs and Crime, “GLOTIP Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/993843.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-04-25",
+  "activeFilters": {}
+}
