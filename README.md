@@ -234,9 +234,3 @@ Dataset tetap tunduk pada lisensi & ketentuan sumber masing-masing
 memakai ulang datanya.
 
 ---
-
-## Catatan housekeeping
-
-- File CSV besar (`human_trafficking.csv` ±12 MB) ikut ter-*commit* di repo.
-- `.DS_Store` ikut terlacak — sebaiknya ditambahkan ke `.gitignore`.
-- Folder `exports/` sengaja dibiarkan kosong; diisi saat notebook dijalankan.
